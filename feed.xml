@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="https://avent.data.gouv.fr/calendrier-lavent/feed.xml" rel="self" type="application/atom+xml" /><link href="https://avent.data.gouv.fr/calendrier-lavent/" rel="alternate" type="text/html" /><updated>2017-12-05T15:12:28+01:00</updated><id>https://avent.data.gouv.fr/calendrier-lavent/</id><title type="html">Calendrier de l’Avent Open Data 2017</title><subtitle>Pas de data, pas de chocolat !</subtitle><entry><title type="html">Monreseaumobile</title><link href="https://avent.data.gouv.fr/calendrier-lavent/2017/05" rel="alternate" type="text/html" title="Monreseaumobile" /><published>2017-12-05T00:00:00+01:00</published><updated>2017-12-05T00:00:00+01:00</updated><id>https://avent.data.gouv.fr/calendrier-lavent/2017/day5</id><content type="html" xml:base="https://avent.data.gouv.fr/calendrier-lavent/2017/05">&lt;p&gt;La qualité de réception mobile en open data.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;En mars dernier, l’&lt;a href=&quot;https://www.arcep.fr/&quot;&gt;Autorité de régulation des communications électroniques et des postes&lt;/a&gt; (ARCEP) a ouvert les données de &lt;a href=&quot;https://www.monreseaumobile.fr/&quot;&gt;Monreseaumobile.fr&lt;/a&gt;, l’outil cartographique permettant de comparer la couverture des réseaux offert par les différents opérateurs en France (Orange, Bouygues, SFR, Free). La base cartographique utilise les données d’&lt;a href=&quot;https://www.openstreetmap.org/&quot;&gt;OpenStreetMap&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Monreseaumobile.fr propose des données concernant la couverture mobile pour les appels et SMS ainsi que la couverture en internet mobile (3G et en 4G).&lt;/p&gt;
+
+&lt;p&gt;La carte rassemble deux paramètres complémentaires :&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;La couverture simulée fournie par les opérateurs pour la téléphonie et l’internet mobile.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/calendrier-lavent/assets/images/arcep1.png&quot; alt=&quot;Couverture simulée pour la téléphonie&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/calendrier-lavent/assets/images/arcep2.png&quot; alt=&quot;Couverture simulée pour l'internet mobile&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;La qualité mesurée réellement sur le terrain par l’ARCEP (avec plus d’un million de mesures) pour la téléphonie et l’internet mobile. La recherche peut ensuite s’effectuer par axes de transports principaux ou autour des lieux de vie et ceci pour chaque opérateur.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/calendrier-lavent/assets/images/arcep3.png&quot; alt=&quot;Qualité mesurée sur le terrain&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;L’ouverture de ces données va permettre de comparer la couverture annoncée par un opérateur et la réalité de celle-ci. Conformément à la loi pour une République numérique de 2016, l’Arcep rend disponible l’ensemble des cartes des opérateurs en open data, ouvrant ainsi la possibilité à des tiers d’utiliser ces données, d’en évaluer la fiabilité, et de créer de nouveaux comparateurs de performance des réseaux mobiles. Retrouvez sur cette page toutes les données de couverture et de qualité de service utilisées sur data.gouv.fr.  Vous trouverez plus de détails quant aux données, formats et systèmes de projection dans les descriptifs des ressources.&lt;/p&gt;
+
+&lt;div data-udata-dataset-id=&quot;58c98b1888ee38770950152b&quot;&gt;&lt;/div&gt;</content><author><name></name></author><summary type="html">La qualité de réception mobile en open data.</summary></entry><entry><title type="html">Les bornes de recharge de véhicules électriques</title><link href="https://avent.data.gouv.fr/calendrier-lavent/2017/04" rel="alternate" type="text/html" title="Les bornes de recharge de véhicules électriques" /><published>2017-12-04T00:00:00+01:00</published><updated>2017-12-04T00:00:00+01:00</updated><id>https://avent.data.gouv.fr/calendrier-lavent/2017/day4</id><content type="html" xml:base="https://avent.data.gouv.fr/calendrier-lavent/2017/04">&lt;!--more--&gt;
+
+&lt;p&gt;Depuis le &lt;a href=&quot;https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000033860620&amp;amp;dateTexte=&amp;amp;categorieLien=id&quot;&gt;décret n° 2017-26 du 12 janvier 2017&lt;/a&gt;, les données relatives à la localisation géographique et aux caractéristiques techniques des stations et des points de recharge de véhicules électriques ouverts au public doivent être publiées sur data.gouv.fr.&lt;/p&gt;
+
+&lt;p&gt;Le format des données est défini par l’&lt;a href=&quot;https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000033860733&amp;amp;categorieLien=id&quot;&gt;arrêté du 12 janvier&lt;/a&gt;, ce qui permet de faciliter l’agrégation de ces données, ainsi que nous l’avions inité dès 2014 avec la &lt;a href=&quot;https://www.data.gouv.fr/fr/reuses/carte-des-bornes-de-recharge-pour-vehicules-electriques/&quot;&gt;carte réalisée en 2014&lt;/a&gt;). La plateforme data.gouv.fr continuera d’évoluer en 2018 afin de favoriser cette consolidation. D’autres types de données d’intérêt national se voient également encadrés par un texte réglementaire définissant un format et une structure comme les données concernant les marchés publics.&lt;/p&gt;
+
+&lt;p&gt;Les premières données sur les bornes de recharges de véhicules électriques sont visibles &lt;a href=&quot;https://www.data.gouv.fr/fr/search/?q=irve&quot;&gt;ici&lt;/a&gt;.&lt;/p&gt;
+
+&lt;div data-udata-dataset-id=&quot;5448d3e0c751df01f85d0572&quot;&gt;&lt;/div&gt;
+&lt;script src=&quot;https://www.data.gouv.fr/static/widgets.js&quot; id=&quot;udata&quot; async=&quot;&quot; defer=&quot;&quot; onload=&quot;udataScript.loadDatasets()&quot;&gt;&lt;/script&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Logement social</title><link href="https://avent.data.gouv.fr/calendrier-lavent/2017/03" rel="alternate" type="text/html" title="Logement social" /><published>2017-12-03T00:00:00+01:00</published><updated>2017-12-03T00:00:00+01:00</updated><id>https://avent.data.gouv.fr/calendrier-lavent/2017/day3</id><content type="html" xml:base="https://avent.data.gouv.fr/calendrier-lavent/2017/03">&lt;p&gt;Toutes les données sont en open data.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Jeudi dernier, le Ministère de la Transition écologique et solidaire a mis en ligne le Répertoire des logements locatifs des bailleurs sociaux (RPLS) sur data.gouv. Ce répertoire détaille les caractéristiques de 4,9 millions de logements sociaux. On y apprend que la surface moyenne des logements sociaux est de 66 mètres carré ou encore que ce sont les 3 pièces qui sont le plus représentés.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/pachevalier/rpls/master/histogram_surface.png&quot; alt=&quot;Superficie des logements sociaux&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/pachevalier/rpls/master/nbpieces.png&quot; alt=&quot;Nombre de pièces&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;C’est dans le département du Nord qu’on trouve le plus de logements sociaux.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/pachevalier/rpls/master/departement.png&quot; alt=&quot;Répartition par département&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Le jeu de données comprend aussi des informations sur les diagnostics de performance énergétique. On découvre que près de 40 % des logements sont classés D en consommation d’énergie et 31 % des logements sont classés D en émission de gaz à effet de serre.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/pachevalier/rpls/master/dpeenergie.png&quot; alt=&quot;Diagnostic de performance énergétique&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/pachevalier/rpls/master/dpeserre.png&quot; alt=&quot;Diagnostic de performance énergétique&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Le jeu de données est sur data.gouv et la version géocodée à l’aide de la base adresse nationale est déjà disponible &lt;a href=&quot;http://212.47.238.202/geo_rpls/&quot;&gt;ici&lt;/a&gt;.&lt;/p&gt;
+
+&lt;div data-udata-dataset-id=&quot;5a1dd4e5c751df02b116a0d6&quot;&gt;&lt;/div&gt;
+&lt;script src=&quot;https://www.data.gouv.fr/static/widgets.js&quot; id=&quot;udata&quot; async=&quot;&quot; defer=&quot;&quot; onload=&quot;udataScript.loadDatasets()&quot;&gt;&lt;/script&gt;</content><author><name></name></author><summary type="html">Toutes les données sont en open data.</summary></entry><entry><title type="html">data.gouv</title><link href="https://avent.data.gouv.fr/calendrier-lavent/2017/02" rel="alternate" type="text/html" title="data.gouv" /><published>2017-12-02T00:00:00+01:00</published><updated>2017-12-02T00:00:00+01:00</updated><id>https://avent.data.gouv.fr/calendrier-lavent/2017/day2</id><content type="html" xml:base="https://avent.data.gouv.fr/calendrier-lavent/2017/02">&lt;p&gt;+51 % de visiteurs uniques mensuels en un an !&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;La fréquentation de data.gouv est en forte en hausse en 2017 par rapport à 2016. Ainsi le nombre de visiteurs uniques mensuels a augmenté de 51 % entre novembre 2016 et novembre 2017. On constate le même phénomène pour tous les mois de l’année avec même une augmentation de 105 % entre juin 2016 et juin 2017 !&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/pachevalier/statsdatagouv/master/piwik.png&quot; alt=&quot;Fréquentation de data.gouv&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Le jeu de données est maintenant disponible sur data.gouv.fr&lt;/p&gt;
+
+&lt;div data-udata-dataset-id=&quot;5a22644f88ee3848529af925&quot;&gt;&lt;/div&gt;
+&lt;script src=&quot;https://www.data.gouv.fr/static/widgets.js&quot; id=&quot;udata&quot; async=&quot;&quot; defer=&quot;&quot; onload=&quot;udataScript.loadDatasets()&quot;&gt;&lt;/script&gt;</content><author><name></name></author><summary type="html">+51 % de visiteurs uniques mensuels en un an !</summary></entry><entry><title type="html">Les prénoms en open data</title><link href="https://avent.data.gouv.fr/calendrier-lavent/2017/01" rel="alternate" type="text/html" title="Les prénoms en open data" /><published>2017-12-01T00:00:00+01:00</published><updated>2017-12-01T00:00:00+01:00</updated><id>https://avent.data.gouv.fr/calendrier-lavent/2017/prenoms</id><content type="html" xml:base="https://avent.data.gouv.fr/calendrier-lavent/2017/01">&lt;p&gt;5,4 % des filles nées en France depuis 1900 s’appellent Marie et 4,6 % des garçons s’appellent Jean !&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Depuis le 1er janvier, toutes les données sur les prénoms sont disponibles en open data sur data.gouv et les réutilisations sont déjà nombreuses.&lt;/p&gt;
+
+&lt;h2 id=&quot;les-10-prénoms-masculins-les-plus-fréquents-depuis-1900&quot;&gt;Les 10 prénoms masculins les plus fréquents depuis 1900&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/pachevalier/datagouvprenoms/master/prenoms_1.png&quot; alt=&quot;Les 10 prénoms masculins les plus fréquents depuis 1900&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;les-10-prénoms-féminins-les-plus-fréquents-depuis-1900&quot;&gt;Les 10 prénoms féminins les plus fréquents depuis 1900&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/pachevalier/datagouvprenoms/master/prenoms_2.png&quot; alt=&quot;Les 10 prénoms féminins les plus fréquents depuis 1900&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;explorez-vous-même-le-jeu-de-données-sur-datagouv-&quot;&gt;Explorez vous même le jeu de données sur data.gouv :&lt;/h2&gt;
+
+&lt;div data-udata-dataset-id=&quot;586a824588ee3835ec3f4e61&quot;&gt;&lt;/div&gt;
+&lt;script src=&quot;https://www.data.gouv.fr/static/widgets.js&quot; id=&quot;udata&quot; async=&quot;&quot; defer=&quot;&quot; onload=&quot;udataScript.loadDatasets()&quot;&gt;&lt;/script&gt;</content><author><name></name></author><summary type="html">5,4 % des filles nées en France depuis 1900 s’appellent Marie et 4,6 % des garçons s’appellent Jean !</summary></entry></feed>
